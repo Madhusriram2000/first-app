@@ -1,0 +1,16 @@
+.table1{
+    border:2px dashed blue;
+}
+ #row2 .span{
+    font-size:10px;
+}
+
+tr, th, td{
+    border: 2px solid black;
+}
+#bgcolor{
+    background-color: aqua;
+}
+#row2{
+    background-color: darksalmon;
+}
